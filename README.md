@@ -1,6 +1,6 @@
                                 
                                   
-                                  👋 Hey! I'm Abre Süeda Özmen 👯
+                                  👋  ## **Hey! I'm Abre Süeda Özmen** 👯
 
 
 - 🔭 I’m currently working on Patika Plus Bootcamp.
@@ -15,7 +15,7 @@
 
  ---
 
-#### 🛠️ Technologies:
+### **🛠️ Technologies:**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -27,7 +27,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🛠️ Tools:
+### **🛠️ Tools:**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -36,7 +36,7 @@
 
  ---
 
- ### 📊 Most Used Languages:
+ ### **📊 Most Used Languages:**
 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abresueda&layout=compact)
