@@ -1,6 +1,9 @@
                                   👋 Hey! I'm Abre Süeda Özmen 👯
 
 
+![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
 - 🔭 I’m currently working on Patika Plus Bootcamp.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abresueda](https://github.com/abresueda?tab=repositories)
@@ -38,7 +41,6 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abresueda&layout=compact)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abresueda&layout=compact&theme=radical)
 
 
 
