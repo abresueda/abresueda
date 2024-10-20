@@ -1,6 +1,7 @@
 
 
-![Sun]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pixabay.com/tr/gifs/yüz-gülümsemek-güneş-göz-kırpmak-7075/))
+                          ![Sun](https://cdn.pixabay.com/animation/2023/07/12/22/33/22-33-22-477_512.gif)
+
 
                                   
                                   
@@ -18,9 +19,9 @@
 
 
  ---
-### 🛠️ Technologies and Tools:
 
-#### Technologies:
+#### 🛠️ Technologies:
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +32,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Tools:
+#### 🛠️ Tools:
+
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
