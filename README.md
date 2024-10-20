@@ -1,7 +1,17 @@
-                                
-                                  
-                                  👋  **Hey! I'm Abre Süeda Özmen** 👯
+<div align="center">
+  
+  ![Sun](https://cdn.pixabay.com/animation/2023/07/12/22/33/22-33-22-477_512.gif)
+</div>
 
+
+
+
+<div align="center" >
+  
+## 👋 Hey! I'm Abre Süeda Özmen 👯
+</div>
+
+---
 
 - 🔭 I’m currently working on Patika Plus Bootcamp.
 
