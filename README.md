@@ -31,9 +31,15 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
  ---
+
+ ### 📊 Most Used Languages:
+
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abresueda&layout=compact)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abresueda&layout=compact&theme=radical)
+
 
 
 <!--
