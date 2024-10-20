@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on Patika Plus Bootcamp.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abresueda](https://github.com/abresueda?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/abresueda?tab=repositories](https://github.com/abresueda?tab=repositories)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abresueda](https://www.linkedin.com/in/abresueda)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abresueda](https://www.linkedin.com/in/abre-sueda-özmen/)
 
 - 📫 How to reach me abre.sueda@gmail.com
 
