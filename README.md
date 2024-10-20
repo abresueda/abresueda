@@ -1,6 +1,6 @@
 
 
-![Sun]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pixabay.com/tr/gifs/yüz-gülümsemek-güneş-göz-kırpmak-7075/)
+![Sun]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pixabay.com/tr/gifs/yüz-gülümsemek-güneş-göz-kırpmak-7075/))
 
                                   
                                   
