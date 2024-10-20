@@ -1,6 +1,6 @@
                                 
                                   
-                                  👋  ## **Hey! I'm Abre Süeda Özmen** 👯
+                                  👋  **Hey! I'm Abre Süeda Özmen** 👯
 
 
 - 🔭 I’m currently working on Patika Plus Bootcamp.
