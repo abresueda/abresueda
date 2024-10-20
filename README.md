@@ -1,9 +1,4 @@
-
-
-                          ![Sun](https://cdn.pixabay.com/animation/2023/07/12/22/33/22-33-22-477_512.gif)
-
-
-                                  
+                                
                                   
                                   👋 Hey! I'm Abre Süeda Özmen 👯
 
