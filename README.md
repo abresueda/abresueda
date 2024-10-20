@@ -1,7 +1,10 @@
+
+
+![Sun]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pixabay.com/tr/gifs/yüz-gülümsemek-güneş-göz-kırpmak-7075/)
+
+                                  
+                                  
                                   👋 Hey! I'm Abre Süeda Özmen 👯
-
-
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
 - 🔭 I’m currently working on Patika Plus Bootcamp.
